@@ -161,3 +161,4 @@ cython_debug/
 google-cloud-sdk/
 fastspeech2-en-ljspeech/
 venv-translate/
+output_audio.wav
